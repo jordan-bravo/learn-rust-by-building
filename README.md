@@ -44,9 +44,9 @@ Quiz 2: Rust Basics
 
 23. Code for this section
 24. Introduction
-25. The HTTP Protocol and the Architecture of Our Server <-- you are here
+25. The HTTP Protocol and the Architecture of Our Server
 26. Structs
-27. Strings
+27. Strings <-- you are here
 28. Enums
 29. The Option Enum
 30. Organizing Our Code into Modules
