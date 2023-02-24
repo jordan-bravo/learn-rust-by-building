@@ -35,7 +35,7 @@ Quiz 1: Memory Management
 18. The Standard Library
 19. Ownership
 20. References and Borrowing
-21. Explore the Ownership and Borrowing in GDB <-- you are here
+21. Explore the Ownership and Borrowing in GDB
 22. Finishing Touches
 
 Quiz 2: Rust Basics
@@ -44,7 +44,7 @@ Quiz 2: Rust Basics
 
 23. Code for this section
 24. Introduction
-25. The HTTP Protocol and the Architecture of Our Server
+25. The HTTP Protocol and the Architecture of Our Server <-- you are here
 26. Structs
 27. Strings
 28. Enums
