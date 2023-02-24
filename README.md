@@ -13,7 +13,7 @@ Course content:
 ...
 05. Cargo
 
-### Section 2: Manual Memory Managment
+### Section 2: Manual Memory Management
 06. Code for this section
 07. Introduction
 ...
